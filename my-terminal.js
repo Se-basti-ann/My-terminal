@@ -24,7 +24,7 @@ const directories = {
              'https://github.com/Se-basti-ann/Pet-shop',
              'WebSite representation of a Pet Store '
             ],
-            ['Web shop'
+            ['Web shop',
              'https://github.com/Se-basti-ann/TiendaOnline',
              'Developement from website wtih Django'
             ],
