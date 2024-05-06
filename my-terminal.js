@@ -20,13 +20,13 @@ const directories = {
         '',
         '<aqua>Open Source projects</aqua>',
         [
-            ['jQuery Terminal',
-             'https://terminal.jcubic.pl',
-             'library that adds terminal interface to websites'
+            ['Pet-Shop',
+             'https://github.com/Se-basti-ann/Pet-shop',
+             'WebSite representation of a Pet Store '
             ],
-            ['LIPS Scheme',
-             'https://lips.js.org',
-             'Scheme implementation in JavaScript'
+            ['Web shop'
+             'https://github.com/Se-basti-ann/TiendaOnline',
+             'Developement from website wtih Django'
             ],
             ['Sysend.js',
              'https://jcu.bi/sysend',
