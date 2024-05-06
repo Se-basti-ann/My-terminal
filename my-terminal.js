@@ -28,14 +28,7 @@ const directories = {
              'https://github.com/Se-basti-ann/TiendaOnline',
              'Developement from website wtih Django'
             ],
-            ['Sysend.js',
-             'https://jcu.bi/sysend',
-             'Communication between open tabs'
-            ],
-            ['Wayne',
-             'https://jcu.bi/wayne',
-             'Pure in browser HTTP requests'
-            ],
+          
         ].map(([name, url, description = '']) => {
             return `* <a href="${url}">${name}</a> &mdash; <white>${description}</white>`;
         }),
